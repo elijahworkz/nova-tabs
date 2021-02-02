@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Eminiarts\Tabs;
 
 use Eminiarts\Tabs\FieldCollection as TabsFieldCollection;
